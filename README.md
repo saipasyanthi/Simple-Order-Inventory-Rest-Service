@@ -1,4 +1,6 @@
-   # Simple Order Service
+   # Simple Order Service  [![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+```Java``` ```Spring Boot``` ``` Maven``` ``` RestAPI``` ```H2DB```
+
 
 Overview
 
